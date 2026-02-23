@@ -1,4 +1,5 @@
 # Bb
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18740260.svg)](https://doi.org/10.5281/zenodo.18740260)
 # MATLAB Codes for Ph.D. Dissertation
 
 **Title:** Modeling and Analysis of Queuing-Inventory Systems with Multiple Servers Operating under an Asynchronous Vacation Policy
