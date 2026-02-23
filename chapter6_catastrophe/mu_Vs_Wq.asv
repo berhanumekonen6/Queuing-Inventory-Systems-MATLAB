@@ -1,0 +1,22 @@
+%% Graph of Optimal service rate mu^* vs Expected waiting times
+close all;
+clear;
+%%Fi=Fi(beta,lambda,mu,alpha,r,xi,eta,gamma,kappa,N);
+%For beta=0.3; lambda=11.17; alpha=0.029; r=0.4; eta=0.0588; xi=0.015; D=6;gamma=0.02;kappa=0.8; N=89; 
+mu=[7.25 7 6.75 6.5 6.25 6 5.75 5.5];
+Wq1=[81.71429	81.76543	79.82176	78.8837	76.95172	74.02628	72.10786	70.19692];
+Wq2=[81.51429	81.56543	79.62176	78.6837	.75172	0.82628	0.90786	0.99692];
+plot(mu,Wq1,'black .-',mu,Wq2,'black *-');
+legend('\gamma = 0.02, \kappa = 0.8','\gamma = 0, \kappa = 0');
+xlabel('Mean number of custumers served (\mu)'); hold on
+ylabel('Mean waiting time in the queue (W_q)'); hold on
+%title('Optimal service rate Vs Expecete waiting time'); hold on 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+  
+
+
+
+  
+  
