@@ -14,10 +14,10 @@
 
 | Folder | Chapter | Description | Status |
 |--------|---------|-------------|--------|
-| `chapter5_QMSM/` | Chapter 5 | Baseline QIS with attraction-retention and partial synchronous vacation | ✅ QMSM Accepted |
-| `chapter6_catastrophe/` | Chapter 6 | Extension with catastrophic events in warehouse | 📝 Original |
-| `chapter7_AAM/` | Chapter 7 | Matrix-analytic method for efficient computation | 📝 AAM Under Review |
-| `chapter8_NSS/` | Chapter 8 | Neutrosophic QIS under catastrophic conditions | ✅ NSS Published |
+| `chapter5_QMSM/` | Chapter 5 | Baseline QIS with attraction-retention and partial synchronous vacation | ✅ Published in QMSM Journal|
+| `chapter6_catastrophe/` | Chapter 6 | Extension with catastrophic events in warehouse | ✅ Published in AJBOR Journal|
+| `chapter7_AAM/` | Chapter 7 | Matrix-analytic method for efficient computation | 📝 Under Review in AAM Journal |
+| `chapter8_NSS/` | Chapter 8 | Neutrosophic QIS under catastrophic conditions | ✅ Published in NSS Journal|
 
 ## 🔧 Requirements
 
