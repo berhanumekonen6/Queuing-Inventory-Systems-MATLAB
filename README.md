@@ -1,4 +1,4 @@
-# Bb
+# Queuing-Inventory-Systems-MATLAB
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18740260.svg)](https://doi.org/10.5281/zenodo.18740260)
 # MATLAB Codes for Ph.D. Dissertation
 
